@@ -18,7 +18,7 @@ Runs on your PC. No account, no install, no ads.
 
 ## Download and run
 
-1. Get **Soundlift-1.1.0-windows.zip** from the [latest release](https://github.com/walkingcorpses/soundlift-releases/releases/latest).
+1. Get the **Soundlift-<version>-windows.zip** file from the [latest release](https://github.com/walkingcorpses/soundlift-releases/releases/latest).
 2. Unzip it anywhere.
 3. Open the `Soundlift` folder and double-click **Soundlift.exe**.
 4. Paste up to 10 YouTube links, pick a format, press **Convert**.
@@ -30,6 +30,10 @@ Files land in `Music\Soundlift` unless you pick another folder.
 ## Updates
 
 Soundlift checks for a new version each time it opens. If there is one, it downloads it, checks it, installs it and restarts by itself. Nothing to click. (Versions before 1.1.0 cannot do this; download 1.1.0 once by hand.)
+
+## What's new
+
+**1.1.1** fixes downloads that sometimes failed with `HTTP Error 403: Forbidden`. Soundlift now retries those by itself.
 
 ## Formats
 
