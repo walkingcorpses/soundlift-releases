@@ -12,7 +12,7 @@ Runs on your PC. No account, no install, no ads.
 [![Download](https://img.shields.io/badge/Download-Windows%20(portable)-FFB347?style=for-the-badge&labelColor=0D0A10)](https://github.com/walkingcorpses/soundlift-releases/releases/latest)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-FF4D7E?style=for-the-badge&labelColor=0D0A10)
 
-<img src="docs/screenshot.png" width="560" alt="Soundlift window converting three links">
+<img src="docs/screenshot.png" width="560" alt="Soundlift Video tab with the preview player">
 
 </div>
 
